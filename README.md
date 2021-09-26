@@ -27,7 +27,7 @@
 <img align="left" alt="GitLab" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/gitlab-logo-vector.svg" />
 <img align="left" alt="BitBucket" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />
 <img align="left" alt="BitBucket" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" />
-<img align="left" alt="BitBucket" width="40px"=src"https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg"/>
+<img align="left" alt="BitBucket" width="40px"=src"https://commons.wikimedia.org/wiki/File:OpenShift-LogoType.svg/>
 <img align="left" alt="BitBucket" width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/11/kubernetes-logo.png" />
 <img align="left" alt="BitBucket" width="40px" src="https://argoproj.github.io/argo-cd/assets/argo.png" /> 
 <br />
