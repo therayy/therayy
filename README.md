@@ -25,7 +25,7 @@
 <img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitLab" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/gitlab-logo-vector.svg" />
-<img align="left" alt="OpenShift" width="26px" src="https://en.wikipedia.org/wiki/OpenShift#/media/File:OpenShift-LogoType.svg" />
+<img align="left" alt="BitBucket" width="26px" src="https://en.wikipedia.org/wiki/OpenShift#/media/File:OpenShift-LogoType.svg" />
 <img align="left" alt="BitBucket" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" />
 <img align="left" alt="BitBucket" width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/11/kubernetes-logo.png" />
 <img align="left" alt="BitBucket" width="40px" src="https://argoproj.github.io/argo-cd/assets/argo.png" /> 
