@@ -67,6 +67,6 @@
 
 [website]: https://johnydev.com
 [youtube]: https://www.youtube.com/channel/UCxvd-DdyFsE_07lCa4kRINA
-[instagram]: https://www.instagram.com/johnbedeir/
-[linkedin]: https://www.linkedin.com/in/johnbedeir/
+[instagram]: https://www.instagram.com/r.adly_/
+[linkedin]: https://www.linkedin.com/in/raafatadly/
 [course]: https://www.youtube.com/channel/UCxvd-DdyFsE_07lCa4kRINA
