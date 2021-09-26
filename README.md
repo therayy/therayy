@@ -37,6 +37,22 @@
 <br />
 <br />
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Git - Github - Gitlab - Bitbucket](https://www.youtube.com/watch?v=MC5ZAyGl2bw&t=1347s)
+- [Docker Compose](https://www.youtube.com/watch?v=mZdU7r8Rf5c&t=4s)
+- [Ansible Playbook](https://www.youtube.com/watch?v=-86oMSw6pSc)
+- [Docker](https://www.youtube.com/watch?v=konAsZCudrA&t=1498s)
+- [Devops Tools](https://www.youtube.com/watch?v=KvZ5xyLT-Dw)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCxvd-DdyFsE_07lCa4kRINA)
+
+---
+
 <details>
   <summary>:zap: Devops Tools Documentation</summary>
   
@@ -48,6 +64,9 @@
 <!--END_SECTION:activity-->
 
 </details>
----
-[instagram]: https://www.instagram.com/r.adly_/
-[linkedin]: https://www.linkedin.com/in/raafatadly/
+
+[website]: https://johnydev.com
+[youtube]: https://www.youtube.com/channel/UCxvd-DdyFsE_07lCa4kRINA
+[instagram]: https://www.instagram.com/johnbedeir/
+[linkedin]: https://www.linkedin.com/in/johnbedeir/
+[course]: https://www.youtube.com/channel/UCxvd-DdyFsE_07lCa4kRINA
