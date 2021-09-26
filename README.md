@@ -25,8 +25,8 @@
 <img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitLab" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/gitlab-logo-vector.svg" />
-<img align="left" alt="BitBucket" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/trello/trello-icon.svg" />
-<img align="left" alt="Trello" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" />
+<img align="left" alt="Trello" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/trello/trello-icon.svg" />
+<img align="left" alt="BitBucket" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" />
 <img align="left" alt="BitBucket" width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/11/kubernetes-logo.png" />
 <img align="left" alt="BitBucket" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" />
 
