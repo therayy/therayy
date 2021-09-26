@@ -29,9 +29,10 @@
 <img align="left" alt="BitBucket" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" />
 <img align="left" alt="helm" width="40px"=src="https://helm.sh/img/helm.svg" />
 <img align="left" alt="BitBucket" width="40px"=src="https://commons.wikimedia.org/wiki/File:OpenShift-LogoType.svg" />
-<img align="left" alt="BitBucket" width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/11/kubernetes-logo.png" />
 <img align="left" alt="BitBucket" width="40px" src="https://argoproj.github.io/argo-cd/assets/argo.png" /> 
-<img align="left" alt="BitBucket" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" />
+<img align="left" alt="BitBucket" width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/11/kubernetes-logo.png" />
+
+
 <br />
 
 <br />
