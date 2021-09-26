@@ -36,7 +36,7 @@
 
 <br />
 
-<div>
+
 <details>
   <summary>:zap: Devops Tools Documentation</summary>
   
@@ -47,7 +47,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-</div>
+
 <!-- [website]: https://johnydev.com
 [youtube]: https://www.youtube.com/channel/UCxvd-DdyFsE_07lCa4kRINA -->
 [instagram]: https://www.instagram.com/r.adly_/
