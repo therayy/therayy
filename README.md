@@ -21,14 +21,14 @@
 ### Languages and Tools:
 
 <img align="left" alt="Slack" width="26px" src="https://iconape.com/wp-content/files/fm/122535/png/Slack_icon_2019.png" />
+<img align="left" alt="Trello" width="26px" src="https://iconape.com/wp-content/files/eo/110906/png/trello.png" />
+<img align="left" alt="GitLab" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/gitlab-logo-vector.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://www.kindpng.com/picc/m/153-1538018_terminal-icon-hd-png-download.png" />
 <img align="left" alt="Atom" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg" />
 <img align="left" alt="vim" width="26px" src="https://iconape.com/wp-content/files/yf/19049/png/cib-vim.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 <img align="left" alt="GitHub" width="26px" src="https://iconape.com/wp-content/files/ia/122232/png/Cib-github__CoreUI_Icons_v1.0.0_.png" />
-<img align="left" alt="GitLab" width="26px" src="https://iconape.com/wp-content/files/eo/110906/png/trello.png" />
-<img align="left" alt="GitLab" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/gitlab-logo-vector.svg" />
 <img align="left" alt="podman" width="100px" src="https://podman.io/images/podman.svg" />
 <img align="left" alt="Docker" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" />
 <img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" />
