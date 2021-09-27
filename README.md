@@ -42,7 +42,6 @@
 <br>    </br>
 
 ---
-
 <details>
   <summary>:zap: Devops Tools Documentation</summary>
   
