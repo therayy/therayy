@@ -40,7 +40,7 @@
 <br />
 <br>    </br>
 <br />
-<img align="center" alt="IBMcloud" width="100px" src="https://iconape.com/wp-content/files/ar/352834/png/ibm-cloud-logo.png" />
+<img align="left" alt="IBMcloud" width="150px" src="https://iconape.com/wp-content/files/ar/352834/png/ibm-cloud-logo.png" />
 
 <br />
 <br>    </br>
