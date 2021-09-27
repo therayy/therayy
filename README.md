@@ -38,7 +38,7 @@
 <img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" />
 <img align="left" alt="ArgoCD" width="26px" src="https://argoproj.github.io/argo-cd/assets/argo.png" /> 
 <br>    </br>
-<img align="left" alt="IBMcloud" width="100px" src="https://iconape.com/wp-content/files/ar/352834/png/ibm-cloud-logo.png" />
+<img align="left" alt="IBMcloud" width="150px" src="https://iconape.com/wp-content/files/ar/352834/png/ibm-cloud-logo.png" />
 <br>    </br>
 
 ---
