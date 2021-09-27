@@ -22,7 +22,7 @@
 
 <img align="left" alt="Slack" width="26px" src="https://iconape.com/wp-content/files/fm/122535/png/Slack_icon_2019.png" />
 <img align="left" alt="Terminal" width="26px" src="https://www.kindpng.com/picc/m/153-1538018_terminal-icon-hd-png-download.png" />
-<img align="left" alt="Atom" width="26px" src="https://iconape.com/wp-content/files/xe/370573/png/370573.png" />
+<img align="left" alt="Atom" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg" />
 <img align="left" alt="Atom" width="26px" src="https://iconape.com/wp-content/files/yf/19049/png/cib-vim.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
