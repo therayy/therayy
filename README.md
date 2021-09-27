@@ -40,7 +40,7 @@
 <br>    </br>
 <br />
 
-<img align="left" alt="openshift" width="100px" src="https://iconape.com/wp-content/files/gd/349594/png/red-hat-openshift-logo.png" />
+<img align="left" alt="openshift" width="100px" src="https://brandeps.com/logo-download/O/OpenShift-logo-vector-01.svg" />
 <img align="left" alt="IBMcloud" width="100px" src="https://iconape.com/wp-content/files/ar/352834/png/ibm-cloud-logo.png" />
 
 <br />
