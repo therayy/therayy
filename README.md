@@ -20,8 +20,8 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Slack" width="100px" src="https://iconape.com/wp-content/files/fm/122535/png/Slack_icon_2019.png" />
 <img align="left" alt="Terminal" width="26px" src="https://www.kindpng.com/picc/m/153-1538018_terminal-icon-hd-png-download.png" />
-<img align="left" alt="Terminal" width="100px" src="https://iconape.com/wp-content/files/ms/349659/png/bash-shell-logo.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 <img align="left" alt="GitHub" width="26px" src="https://iconape.com/wp-content/files/ia/122232/png/Cib-github__CoreUI_Icons_v1.0.0_.png" />
