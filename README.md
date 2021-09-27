@@ -33,7 +33,7 @@
 <img align="left" alt="Podman" width="26px" src="https://developers.redhat.com/sites/default/files/inline-images/podmanicon.png" />  
 <img align="left" alt="Kubernetes" width="26px" src="https://iconape.com/wp-content/files/af/353338/png/kubernetes-logo.png" />
 <img align="left" alt="Ansible" width="26px" src="https://iconape.com/wp-content/files/zk/17516/png/cib-ansible.png" />
-<img align="left" alt="openshift" width="40px" src="https://brandeps.com/logo-download/O/OpenShift-logo-vector-01.svg" />
+<img align="left" alt="openshift" width="30px" src="https://brandeps.com/logo-download/O/OpenShift-logo-vector-01.svg" />
 <img align="left" alt="Tekton" width="26px" src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4" />
 <img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" />
 <img align="left" alt="ArgoCD" width="26px" src="https://argoproj.github.io/argo-cd/assets/argo.png" /> 
