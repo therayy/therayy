@@ -1,6 +1,6 @@
 ### Hi there am Raafat Abaid (Ray) 👋
 
-## I'm a DevOps Engineer working with IBM
+## I'm a DevOps Engineer working with IBM<img align="left" alt="ibm" width="26px" src="https://iconape.com/wp-content/files/sl/184399/png/ibm-logo.png" />
 
 - 🔭 I’m currently learning everything 🤣 
 - 🌱 I’m looking to get certified and grow
