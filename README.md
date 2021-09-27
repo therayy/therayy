@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning everything 🤣 
 - 🌱 I’m looking to get certified and grow
-- 🥅 2021 Goals: End it at least with one RED-HAT certifcate
+- 🥅 2021 Goals: End it at least with one <img align="left" alt="redhat" width="100px" src="https://iconape.com/wp-content/files/vn/346669/png/redhat-logo.png" /> certifcate
 
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
@@ -39,7 +39,6 @@
 <br />
 
 <br />
-<img align="left" alt="redhat" width="100px" src="https://iconape.com/wp-content/files/vn/346669/png/redhat-logo.png" />
 <img align="left" alt="openshift" width="100px" src="https://iconape.com/wp-content/files/gd/349594/png/red-hat-openshift-logo.png" />
 <img align="left" alt="IBMcloud" width="100px" src="https://iconape.com/wp-content/files/ar/352834/png/ibm-cloud-logo.png" />
 
