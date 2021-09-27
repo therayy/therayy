@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning everything 🤣 
 - 🌱 I’m looking to get certified and grow
-- 🥅 2021 Goals: End it at least with one <img align="left" alt="redhat" width="100px" src="https://iconape.com/wp-content/files/vn/346669/png/redhat-logo.png" /> certifcate
+- 🥅 2021 Goals: End it at least with one <img align="center" alt="redhat" width="100px" src="https://iconape.com/wp-content/files/vn/346669/png/redhat-logo.png" /> certifcate
 
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
