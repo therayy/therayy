@@ -18,7 +18,7 @@
 
 <br />
 
-### Languages and Tools:
+### Tools:
 
 <img align="left" alt="Slack" width="26px" src="https://iconape.com/wp-content/files/fm/122535/png/Slack_icon_2019.png" />
 <img align="left" alt="Trello" width="26px" src="https://iconape.com/wp-content/files/eo/110906/png/trello.png" />
