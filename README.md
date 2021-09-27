@@ -29,12 +29,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://iconape.com/wp-content/files/ia/122232/png/Cib-github__CoreUI_Icons_v1.0.0_.png" />
 <img align="left" alt="GitLab" width="26px" src="https://iconape.com/wp-content/files/eo/110906/png/trello.png" />
 <img align="left" alt="GitLab" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/gitlab-logo-vector.svg" />
+<img align="left" alt="podman" width="100px" src="https://podman.io/images/podman.svg" />
 <img align="left" alt="Docker" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" />
 <img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" />
 <img align="left" alt="Kubernates" width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/11/kubernetes-logo.png" />
 <img align="left" alt="Ansible" width="40px" src="https://iconape.com/wp-content/files/xv/33916/png/ansible.png" />
 <img align="left" alt="ArgoCD" width="26px" src="https://argoproj.github.io/argo-cd/assets/argo.png" /> 
-<img align="left" alt="podman" width="100px" src="https://podman.io/images/podman.svg" />
 
 <br />
 
