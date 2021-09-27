@@ -30,7 +30,7 @@
 <img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 <img align="left" alt="GitHub" width="26px" src="https://iconape.com/wp-content/files/ia/122232/png/Cib-github__CoreUI_Icons_v1.0.0_.png" />
 <img align="left" alt="podman" width="100px" src="https://podman.io/images/podman.svg" />
-<img align="left" alt="Docker" width="26px" src="https://iconape.com/wp-content/files/fr/370801/png/370801.png" />
+<img align="left" alt="Docker" width="26px" src="https://www.pikpng.com/pngl/b/430-4307964_docker-and-kubernetes-logos-point-of-sales-icon.png" />
 <img align="left" alt="Kubernates" width="26px" src="https://iconape.com/wp-content/files/af/353338/png/kubernetes-logo.png" />
 <img align="left" alt="Ansible" width="26px" src="https://iconape.com/wp-content/files/zk/17516/png/cib-ansible.png" />
 <img align="left" alt="Tekton" width="26px" src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4" />
