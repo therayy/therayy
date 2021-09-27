@@ -1,6 +1,6 @@
 ### Hi there am Raafat Abaid (Ray) 👋
 
-## I'm a DevOps Engineer working with <img align="center" alt="ibm" width="100px" src="https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-corporate-leadership-training-monty-halls-ltd-23.png" />
+## I'm a DevOps Engineer working with <img align="center" alt="ibm" width="100px" src="https://www.pngfind.com/pngs/m/303-3032938_ibm-logo-transparent-transparent-background-ibm-logo-transparent.png" />
 
 - 🔭 I’m currently learning everything 🤣 
 - 🌱 I’m looking to get certified and grow
