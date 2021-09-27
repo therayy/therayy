@@ -39,7 +39,7 @@
 <br />
 
 <br />
-<img align="left" alt="openshift" width="26px" src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4" />
+<img align="left" alt="openshift" width="40px" src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4" />
 <img align="left" alt="openshift" width="100px" src="https://iconape.com/wp-content/files/gd/349594/png/red-hat-openshift-logo.png" />
 <img align="left" alt="IBMcloud" width="100px" src="https://iconape.com/wp-content/files/ar/352834/png/ibm-cloud-logo.png" />
 
