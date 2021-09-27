@@ -32,7 +32,7 @@
 <img align="left" alt="podman" width="100px" src="https://podman.io/images/podman.svg" />
 <img align="left" alt="Docker" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" />
 <img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" />
-<img align="left" alt="Kubernates" width="100px" src="https://iconape.com/wp-content/files/af/353338/png/kubernetes-logo.png" />
+<img align="left" alt="Kubernates" width="26px" src="https://iconape.com/wp-content/files/af/353338/png/kubernetes-logo.png" />
 <br />
 <br>    </br>
 <br />
