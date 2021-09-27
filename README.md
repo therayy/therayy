@@ -39,11 +39,7 @@
 <img align="left" alt="ArgoCD" width="26px" src="https://argoproj.github.io/argo-cd/assets/argo.png" /> 
 <br>    </br>
 <img align="left" alt="IBMcloud" width="100px" src="https://iconape.com/wp-content/files/ar/352834/png/ibm-cloud-logo.png" />
-
-<br />
 <br>    </br>
-<br />
-
 ---
 
 <details>
