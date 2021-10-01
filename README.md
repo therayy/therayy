@@ -36,7 +36,7 @@
 <img align="left" alt="openshift" width="30px" src="https://brandeps.com/logo-download/O/OpenShift-logo-vector-01.svg" />
 <img align="left" alt="Tekton" width="26px" src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4" />
 <img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" />
-<img align="left" alt="ArgoCD" width="26px" src="https://argoproj.github.io/argo-cd/assets/argo.png" /> 
+<img align="left" alt="ArgoCD" width="26px" src="https://blog.filador.fr/content/images/size/w2000/2020/12/argocd-logo.png" /> 
 <br>    </br>
 <img align="left" alt="IBMcloud" width="150px" src="https://iconape.com/wp-content/files/ar/352834/png/ibm-cloud-logo.png" />
 <br>    </br>
