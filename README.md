@@ -17,18 +17,7 @@
 
 <br />
 
----
-<details>
-  <summary>:zap: Devops Tools Documentation</summary>
-  
-<!--START_SECTION:activity-->
-1. [Git Commands](https://github.com/johnbedeir/Devops-Tools-Documentation/blob/main/Git/Git_Commands.md)
-2. [Docker Commands](https://github.com/johnbedeir/Devops-Tools-Documentation/blob/main/Docker/Docker%20commands.MD)
-3. [Ansible Playbook Template](https://github.com/johnbedeir/Devops-Tools-Documentation/blob/main/Ansible/ansible-playbook%20(example).yml)
-4. [How to create a pipeline using tekton](https://github.com/therayy/Pipelining)
-<!--END_SECTION:activity-->
 
-</details>
 
 <!-- [website]: https://johnydev.com
 [youtube]: https://www.youtube.com/channel/UCxvd-DdyFsE_07lCa4kRINA -->
