@@ -19,7 +19,7 @@
 <br/>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/raafatadly/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raafat%20Abaid%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/r.adly_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:raafat.adly@ymail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/raafatadly/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raafat%20Abaid-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/r.adly_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-r.adly_-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:raafat.adly@ymail.com"><img alt="Email" src="https://img.shields.io/badge/Email-raafat.adly@ymail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
