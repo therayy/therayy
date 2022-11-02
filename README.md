@@ -7,7 +7,7 @@
 - 🎯 2023 Goals: get certified 
 - ⚡ Fun fact: Am a Standup comdian show runner & a Soccer player
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/therayy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therayy&theme=transparent&show_icons=true&count_private=true" />
 </a>
