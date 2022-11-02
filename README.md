@@ -2,11 +2,10 @@
 
 ## Advisory DevOps Engineer Client Engineering working with <img align="center" alt="ibm" width="60px" src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-transparent.png" />
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🔭 I’m currently learning everything 🤣 
+- 🤔 &nbsp; Exploring new technologies and DevOps software solutions and quick hacks.
+- 🔭 I’m currently learning Advanced Kubernetes adminstration and Automation tools
 - 🎯 2023 Goals: get certified 
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
-
+- ⚡ Fun fact: Am a Standup comdian show runner & a Soccer player
 
 ### 🤝🏻 Connect with me:
 
