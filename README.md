@@ -12,9 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therayy&theme=transparent&show_icons=true&count_private=true" />
 </a>
 </p>
-
-<br/>
-
 ### 🤝🏻 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/raafatadly/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
