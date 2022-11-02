@@ -1,6 +1,6 @@
 ### Hi there I'm Ray 👋
 
-## I'm a DevOps Engineer working with <img align="center" alt="ibm" width="60px" src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-transparent.png" />
+## Advisory DevOps Engineer Client Engineering working with <img align="center" alt="ibm" width="60px" src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-transparent.png" />
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🔭 I’m currently learning everything 🤣 
