@@ -12,7 +12,7 @@
 ### 🤝🏻 Connect with me:
 
 <a href="https://github.com/therayy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therayy&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therayy&theme=transparent&show_icons=true" />
 </a>
 
 <br/>
