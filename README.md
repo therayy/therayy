@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🔭 I’m currently learning everything 🤣 
 - 🌱 I’m looking to get certified and grow
-- 🥅 2022 Goals: get certified 
+- 🎯 2023 Goals: get certified 
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 
