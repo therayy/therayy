@@ -13,8 +13,9 @@
 </a>
 </p>
 
-### 🤝🏻 Connect with me:
 <p align="right">
+### 🤝🏻 Connect with me:
+
 <a href="https://www.linkedin.com/in/raafatadly/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/__raafat__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram"></a>
 <a href="mailto:raafat.adly@ymail.com"><img alt="Email" src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail"></a>
