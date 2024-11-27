@@ -3,7 +3,7 @@
 ## Technical Product Manager | Lead DevOps Engineer <img align="center" alt="ibm" width="60px" src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-transparent.png" />
 
 - 🤔 &nbsp; Exploring new technologies and DevOps software solutions and quick hacks.
-- 🔭 I’m currently learning Advanced Kubernetes adminstration and Automation tools
+- 🔭 I’m currently learning Advanced new tools such as Vault
 - 🎯 2025 Goals: go to space
 - ⚡ Fun fact: Am a Standup comdian show runner & a Soccer player
 
