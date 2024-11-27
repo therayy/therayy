@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and DevOps software solutions and quick hacks.
 - 🔭 I’m currently learning Advanced Kubernetes adminstration and Automation tools
-- 🎯 2023 Goals: get certified 
+- 🎯 2025 Goals: go to space
 - ⚡ Fun fact: Am a Standup comdian show runner & a Soccer player
 
 <p align="left">
