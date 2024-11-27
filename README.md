@@ -1,6 +1,6 @@
 ### Hi there I'm Ray 👋
 
-## Senior Softwar Engineer BTS Tech Sales working with <img align="center" alt="ibm" width="60px" src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-transparent.png" />
+## Technical Product Manager | Lead DevOps Engineer <img align="center" alt="ibm" width="60px" src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-transparent.png" />
 
 - 🤔 &nbsp; Exploring new technologies and DevOps software solutions and quick hacks.
 - 🔭 I’m currently learning Advanced Kubernetes adminstration and Automation tools
