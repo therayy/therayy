@@ -1,6 +1,6 @@
 ### Hi there I'm Ray 👋
 
-## Senior Solution Archrect <img align="center" alt="ibm" width="60px" src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-transparent.png" />
+## Senior Solution Architect <img align="center" alt="ibm" width="60px" src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-transparent.png" />
 
 - 🤔 &nbsp; Exploring new technologies and DevOps software solutions and quick hacks.
 - 🔭 I’m currently learning Advanced new tools such as Vault
