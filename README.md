@@ -7,11 +7,7 @@
 - 🎯 2025 Goals: go to space
 - ⚡ Fun fact: Am a Standup comdian show runner & a Soccer player
 
-<p align="left">
-<a href="https://github.com/therayy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therayy&theme=transparent&show_icons=true&count_private=true" />
-</a>
-</p>
+
 
 <p align="left">
 <a href="https://www.linkedin.com/in/raafatadly/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
