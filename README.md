@@ -2,9 +2,10 @@
 
 ## Senior Solution Architect <img align="center" alt="ibm" width="60px" src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-transparent.png" />
 
-- 🤔 &nbsp; Exploring new technologies and DevOps software solutions and quick hacks.
-- 🔭 I’m currently learning Advanced new tools such as Vault
-- 🎯 2025 Goals: go to space
+- Visit My [website](https://www.raafat.tech)
+- 🤔 &nbsp; Exploring new technologies and quick hacks.
+- 🔭 I’m currently learning Advanced new tools
+- 🎯 2030 Goals: go to space
 - ⚡ Fun fact: Am a Standup comdian show runner & a Soccer player
 
 
@@ -13,6 +14,5 @@
 <a href="https://www.linkedin.com/in/raafatadly/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/__raafat__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram"></a>
 <a href="mailto:raafat.adly@ymail.com"><img alt="Email" src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail"></a>
-<a href="mailto:www.raafat.tech"><img alt="Website" src="https://img.shields.io/badge/website-white?style=flat-square&logo=website"></a>
 </p>
 
