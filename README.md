@@ -1,4 +1,4 @@
-### Hi there I'm Ray Abaid 👋
+### Hi there I'm Ray 👋
 
 ## Senior Solution Architect <img align="center" alt="ibm" width="60px" src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-transparent.png" />
 
